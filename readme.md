@@ -5,9 +5,6 @@
 <h1 align="center">Hi 👋, I'm Ansh Paswan</h1>
 <h3 align="center">An frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshhh68&label=Profile%20views&color=0e75b6&style=flat" alt="anshhh68" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshhh68" alt="anshhh68" /></a> </p>
 
 - 🔭 I’m currently working on [RideRescue Project — A modern web app built with React + TypeScript for real-time ride management.](https://github.com/anshhh68/RideRescueproject)
 
