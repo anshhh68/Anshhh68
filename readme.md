@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://assets.pinterest.com/ext/embed.html?id=156640893285535233" width="100%" alt="banner">
+  <img src="https://assets.pinterest.com/ext/embed.html?id=156640893285535233" alt="banner">
 </div>
 
 <h1 align="center">Hi 👋, I'm Ansh Paswan</h1>
