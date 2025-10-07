@@ -1,5 +1,6 @@
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=156640893285535233" height="550" width="450" frameborder="0" scrolling="no" ></iframe>
-
+<div align="center">
+  <img src="https://assets.pinterest.com/ext/embed.html?id=156640893285535233" width="100%" alt="banner">
+</div>
 
 <h1 align="center">Hi 👋, I'm Ansh Paswan</h1>
 <h3 align="center">An frontend developer from India</h3>
