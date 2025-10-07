@@ -6,7 +6,7 @@
 <h3 align="center">An frontend developer from India</h3>
 
 
-- 🔭 I’m currently working on [RideRescue Project — A modern web app built with React + TypeScript for real-time ride management.](https://github.com/anshhh68/RideRescueproject)
+- 🔭 I’m currently working on [RideRescue Project.](https://github.com/anshhh68/RideRescueproject)
 
 - 🌱 I’m currently learning **Next.js, GSAP animations, and TypeScript best practices.**
 
