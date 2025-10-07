@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://assets.pinterest.com/ext/embed.html?id=156640893285535233" alt="banner"](https://assets.pinterest.com/ext/embed.html?id=6685099440908563)>
+  <img src="https://raw.githubusercontent.com/anshhh68/Anshhh68/refs/heads/main/Coding%20-%20Pixel%20Jeff.gif" width="100%" alt="banner">
 </div>
 
 <h1 align="center">Hi 👋, I'm Ansh Paswan</h1>
