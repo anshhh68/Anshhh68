@@ -6,7 +6,7 @@
 <h3 align="center">A frontend developer from India</h3>
 
 
-- 🔭 I’m currently working on [RideRescue Project.](https://github.com/anshhh68/RideRescueproject)
+- 🔭 I’m currently building websites and actively upgrading my development skills 🚀
 
 - 🌱 I’m currently learning **Next.js, GSAP animations, and TypeScript best practices.**
 
