@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Ansh Paswan</h1>
-<h3 align="center">A frontend developer from India</h3>
+<h3 align="center">A full stack developer from India</h3>
 
 
 - 🔭 I’m currently building websites and actively upgrading my development skills 🚀
